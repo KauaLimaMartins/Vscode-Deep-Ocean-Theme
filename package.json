@@ -1,0 +1,30 @@
+{
+    "name": "klm-deep-ocean-theme",
+    "publisher": "kaualima",
+    "author": {
+        "name": "Kauã Lima",
+        "url": "https://www.linkedin.com/in/KauaLima"
+    },
+    "displayName": "Deep Ocean Theme",
+    "description": "A dark theme based on the depths of the ocean",
+    "repository": {
+        "url": "https://github.com/KauaLimaMartins/Vscode-Deep-Ocean-Theme"
+    },
+    "icon": "icon.png",
+    "version": "0.0.1",
+    "engines": {
+        "vscode": "^1.46.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "Deep Ocean Theme",
+                "uiTheme": "vs-dark",
+                "path": "./themes/deep-ocean-theme-color-theme.json"
+            }
+        ]
+    }
+}
