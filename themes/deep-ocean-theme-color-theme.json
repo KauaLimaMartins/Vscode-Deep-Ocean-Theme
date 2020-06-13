@@ -14,6 +14,8 @@
         "list.hoverBackground": "#0f111a",
         "list.inactiveFocusBackground": "#0f111a",
         "list.inactiveSelectionBackground": "#0f111a",
+        "list.activeSelectionForeground": "#88d4cd",
+        "list.inactiveSelectionForeground": "#6daaa4",
         "list.highlightForeground": "#88d4cd",
         "list.focusBackground": "#161b2b",
 
@@ -91,7 +93,9 @@
         "breadcrumb.activeSelectionForeground": "#ade2dd",
 
         "dropdown.background": "#2f3441",
-        "scrollbar.shadow": "#06080b"
+        "scrollbar.shadow": "#06080b",
+
+        "gitDecoration.ignoredResourceForeground": "#42475a"
     },
     "tokenColors": [
         {
