@@ -95,7 +95,7 @@
         "dropdown.background": "#2f3441",
         "scrollbar.shadow": "#06080b",
 
-        "gitDecoration.ignoredResourceForeground": "#42475a"
+        "gitDecoration.ignoredResourceForeground": "#3f4357"
     },
     "tokenColors": [
         {
