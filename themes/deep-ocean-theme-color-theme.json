@@ -93,6 +93,7 @@
         "breadcrumb.activeSelectionForeground": "#ade2dd",
 
         "dropdown.background": "#2f3441",
+
         "scrollbar.shadow": "#06080b",
 
         "gitDecoration.ignoredResourceForeground": "#3f4357"
@@ -165,12 +166,6 @@
             }
         },
         {
-            "scope": "punctuation",
-            "settings": {
-                "foreground": "#89DDFF"
-            }
-        },
-        {
             "scope": [
                 "punctuation.definition.string.begin",
                 "punctuation.definition.string.end"
@@ -180,9 +175,9 @@
             }
         },
         {
-            "scope": "punctuation.separator.continuation",
+            "scope": "punctuation",
             "settings": {
-                "foreground": "#7159c1"
+                "foreground": "#89DDFF"
             }
         },
         {
@@ -210,7 +205,7 @@
                 "markup.deleted.git_gutter"
             ],
             "settings": {
-                "foreground": "#ff4b4b",
+                "foreground": "#fd5e5e",
                 "fontStyle": ""
             }
         },
@@ -245,20 +240,20 @@
         {
             "scope": ["keyword.other.unit", "keyword.other"],
             "settings": {
-                "foreground": "#f3a44a"
+                "foreground": "#ec9a3c"
             }
         },
         {
             "name": "Number, Constant, Function Argument, Tag Attribute, Embedded",
             "scope": [
-                "constant.numeric",
                 "constant.language",
                 "support.constant",
                 "constant.character",
-                "constant.escape"
+                "constant.escape",
+                "constant.numeric"
             ],
             "settings": {
-                "foreground": "#f3a44a"
+                "foreground": "#ec9a3c"
             }
         },
         {
@@ -303,7 +298,8 @@
             "name": "Entity Types",
             "scope": ["support.type"],
             "settings": {
-                "foreground": "#B2CCD6"
+                "foreground": "#f3a44a",
+                "fontStyle": "italic"
             }
         },
         {
