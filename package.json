@@ -11,7 +11,7 @@
         "url": "https://github.com/KauaLimaMartins/Vscode-Deep-Ocean-Theme"
     },
     "icon": "icon.png",
-    "version": "0.0.3",
+    "version": "0.0.5",
     "engines": {
         "vscode": "^1.46.0"
     },

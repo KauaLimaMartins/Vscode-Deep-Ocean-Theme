@@ -3,10 +3,10 @@
     "type": "dark",
     "colors": {
         "editor.background": "#0f111a",
-        "editor.foreground": "#feeeff",
+        "editor.foreground": "#d8d8d8",
         "editor.selectionBackground": "#2f3441e8",
         "editor.lineHighlightBackground": "#2f344134",
-        "editorLineNumber.activeForeground": "#feeeff",
+        "editorLineNumber.activeForeground": "#d8d8d8",
         "editorCursor.foreground": "#ade2dd",
         "editorGroupHeader.tabsBackground": "#13151f",
 
@@ -38,7 +38,7 @@
         "tab.hoverForeground": "#ade2dd",
 
         "input.background": "#2f3441",
-        "input.foreground": "#feeeff",
+        "input.foreground": "#d8d8d8",
         "input.placeholderForeground": "#c2c2c2",
 
         "focusBorder": "#ade2dda9",
@@ -74,7 +74,7 @@
         "statusBar.background": "#090b10",
         "statusBar.border": "#06080b",
 
-        "terminal.foreground": "#feeeff",
+        "terminal.foreground": "#d8d8d8",
         "terminal.background": "#090B10",
         "terminalCursor.foreground": "#a2d4cf",
 
@@ -86,7 +86,7 @@
         "badge.foreground": "#06080b",
 
         "editorWidget.background": "#0f111a",
-        "editorWidget.foreground": "#feeeff",
+        "editorWidget.foreground": "#d8d8d8",
 
         "breadcrumb.background": "#0f111a",
         "breadcrumbPicker.background": "#0f111a",
@@ -111,7 +111,7 @@
             "name": "Variables",
             "scope": ["variable", "string constant.other.placeholder"],
             "settings": {
-                "foreground": "#feeeff"
+                "foreground": "#d8d8d8"
             }
         },
         {
@@ -162,7 +162,7 @@
             "name": "Operator, Misc",
             "scope": ["punctuation.definition.tag"],
             "settings": {
-                "foreground": "#feeeff"
+                "foreground": "#d8d8d8"
             }
         },
         {
@@ -194,7 +194,7 @@
                 "keyword.other.substitution"
             ],
             "settings": {
-                "foreground": "#feeeff"
+                "foreground": "#d8d8d8"
             }
         },
         {
@@ -553,7 +553,7 @@
                 "punctuation.definition.list_item.markdown"
             ],
             "settings": {
-                "foreground": "#EEFFFF"
+                "foreground": "#d8d8d8"
             }
         },
         {
@@ -688,7 +688,7 @@
                 "punctuation.section.class.end"
             ],
             "settings": {
-                "foreground": "#EEFFFF"
+                "foreground": "#d8d8d8"
             }
         },
         {
@@ -710,7 +710,7 @@
             "name": "Markup - Table",
             "scope": ["markup.table"],
             "settings": {
-                "foreground": "#EEFFFF"
+                "foreground": "#d8d8d8"
             }
         }
     ]
