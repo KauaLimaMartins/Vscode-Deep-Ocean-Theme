@@ -11,7 +11,7 @@
         "url": "https://github.com/KauaLimaMartins/Vscode-Deep-Ocean-Theme"
     },
     "icon": "icon.png",
-    "version": "0.0.5",
+    "version": "0.2.0",
     "engines": {
         "vscode": "^1.46.0"
     },
@@ -21,9 +21,19 @@
     "contributes": {
         "themes": [
             {
-                "label": "Deep Ocean Theme",
+                "label": "Deep Ocean - Blue",
                 "uiTheme": "vs-dark",
                 "path": "./themes/deep-ocean-theme-color-theme.json"
+            },
+            {
+                "label": "Deep Ocean - Purple",
+                "uiTheme": "vs-dark",
+                "path": "./themes/purple-ocean-theme-color-theme.json"
+            },
+            {
+                "label": "Deep Ocean - Dark",
+                "uiTheme": "vs-dark",
+                "path": "./themes/dark-ocean-theme-color-theme.json"
             }
         ]
     }
