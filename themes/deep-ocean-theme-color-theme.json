@@ -4,7 +4,7 @@
     "colors": {
         "editor.background": "#0f111a",
         "editor.foreground": "#d8d8d8",
-        "editor.selectionBackground": "#2f3441e8",
+        "editor.selectionBackground": "#ade2dd7c",
         "editor.lineHighlightBackground": "#2f344134",
         "editorLineNumber.activeForeground": "#d8d8d8",
         "editorCursor.foreground": "#ade2dd",

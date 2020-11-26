@@ -4,7 +4,7 @@
   "colors": {
       "editor.background": "#0d0d0d",
       "editor.foreground": "#d8d8d8",
-      "editor.selectionBackground": "#333333e8",
+      "editor.selectionBackground": "#af6dc554",
       "editor.lineHighlightBackground": "#33333334",
       "editorLineNumber.activeForeground": "#d8d8d8",
       "editorCursor.foreground": "#AF6DC5",
@@ -49,7 +49,7 @@
 
       "debugToolBar.background": "#06080b",
 
-      "menu.background": "#0c1118",
+      "menu.background": "#111111",
 
       "button.background": "#AF6DC5",
       "button.foreground": "#0d0d0d",
