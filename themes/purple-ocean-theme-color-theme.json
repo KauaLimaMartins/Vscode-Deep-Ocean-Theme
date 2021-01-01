@@ -2,8 +2,8 @@
     "name": "Deep Ocean Theme",
     "type": "dark",
     "colors": {
-        "editor.background": "#13111B",
         "editor.foreground": "#d8d8d8",
+        "editor.background": "#13111B",
         "editor.selectionBackground": "#2f3441e8",
         "editor.lineHighlightBackground": "#2f344134",
         "editorLineNumber.activeForeground": "#d8d8d8",
